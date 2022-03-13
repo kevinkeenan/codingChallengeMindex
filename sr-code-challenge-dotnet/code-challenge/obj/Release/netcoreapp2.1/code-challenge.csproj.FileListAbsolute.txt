@@ -1,0 +1,10 @@
+/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/bin/Release/netcoreapp2.1/code-challenge.deps.json
+/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/bin/Release/netcoreapp2.1/code-challenge.runtimeconfig.json
+/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/bin/Release/netcoreapp2.1/code-challenge.runtimeconfig.dev.json
+/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/bin/Release/netcoreapp2.1/code-challenge.dll
+/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/bin/Release/netcoreapp2.1/code-challenge.pdb
+/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/obj/Release/netcoreapp2.1/code-challenge.csproj.CoreCompileInputs.cache
+/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/obj/Release/netcoreapp2.1/code-challenge.AssemblyInfoInputs.cache
+/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/obj/Release/netcoreapp2.1/code-challenge.AssemblyInfo.cs
+/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/obj/Release/netcoreapp2.1/code-challenge.dll
+/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/obj/Release/netcoreapp2.1/code-challenge.pdb

@@ -1,0 +1,24 @@
+Hi Kevin –
+
+Please see the role for Ford Credit below and provide the following information because the manager is interested in moving forward with you:
+
+Job Description
+
+Position Description:
+
+Ford Credit IT is growing an organization focused on delivering software leveraging eXtreme Programming and cloud technologies. In this environment you will: • Build beautiful mobile applications using React Native • Validate and release mobile and cloud applications using continuous integration and continuous delivery tools • Work effectively with product designers and other technical experts • Work with product owners, product managers and end-users to understand their business processes and needs • Work in a collaborative environment; e.g. pairing and mobbing with other engineers. • Develop backend services to support mobile applications • Work on a small agile team to deliver working tested software
+
+Skills Required:
+• Java, React Native using Typescript • Automated Testing • DevOps for Mobile Applications
+
+Skills Preferred:
+• Mentoring • Agile • Test Driven Development • Paired Programming •. Kotlin • Spring Boot
+
+Experience Required:
+• Two or more years of experience delivering products using React Native • Three or more years of professional development experience • Experience writing automated tests for mobile applications • Proficiency with continuous integration/continuous delivery tools and pipelines for React Native applications (e.g. Jenkins, Yarn, NPM, Gradle)
+
+Experience Preferred:
+• In-depth software engineering knowledge • Expertise in principles practiced in eXtreme Programming (XP) disciplines including: o Paired programming o Test-first/test-driven development (TDD) • Experience with Spring Cloud and deploying to cloud platforms (e.g., Pivotal Cloud Foundry, Cloud Foundry) • Strong knowledge of monitoring and logging practices using industry tools such as Dynatrace and Splunk • Experience deploying mobile applications to the App Store
+
+Education Required:
+Bachelor’s degree in Computer Science or similar technical discipline, or equivalent work experience

@@ -1,0 +1,79 @@
+﻿<Properties StartupConfiguration="{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|Default">
+  <MonoDevelop.Ide.ItemProperties.code-challenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="code-challenge/Repositories/CompensationRepository.cs">
+    <Files>
+      <File FileName="code-challenge.Tests/EmployeeControllerTests.cs" Line="1" Column="1" />
+      <File FileName="code-challenge.Tests/TestServerStartup.cs" Line="49" Column="1" />
+      <File FileName="code-challenge/Startup.cs" Line="40" Column="1" />
+      <File FileName="code-challenge.Tests/CompensationControllerTests.cs" Line="84" Column="82" />
+      <File FileName="code-challenge/Controllers/CompensationController.cs" Line="40" Column="1" />
+      <File FileName="code-challenge/Services/CompensationService.cs" Line="33" Column="1" />
+      <File FileName="code-challenge/Repositories/CompensationRepository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="code-challenge" expanded="True">
+            <Node name="code-challenge" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="CompensationRepository.cs" selected="True" />
+              </Node>
+              <Node name="resources" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="code-challenge.Tests.Integration" expanded="True">
+              <Node name="Extensions" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>!_employeeContext.Compensations.Any()</Value>
+          <Value>_employeeContext.Employees</Value>
+          <Value>_employeeContext.Employees.Results View[0]</Value>
+          <Value>_employeeContext.Employees.Results View[0].DirectReports</Value>
+          <Value>_employeeContext.Employees.SingleOrDefault(e =&gt; e.EmployeeId == id);</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="code-challenge" expanded="True">
+            <Node name="code-challenge.Tests.Integration" expanded="True">
+              <Node name="code_challenge" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Integration" expanded="True">
+                    <Node name="CompensationControllerTests" expanded="True">
+                      <Node name="CreateCompensation_Returns_Created" selected="True" />
+                    </Node>
+                    <Node name="EmployeeControllerTests" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.code-challenge.Tests.Integration PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/Repositories/CompensationRepository.cs" relfile="code-challenge/Repositories/CompensationRepository.cs" line="30" column="11" />
+      <Breakpoint file="/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/Repositories/CompensationRepository.cs" relfile="code-challenge/Repositories/CompensationRepository.cs" line="41" column="8" />
+      <Breakpoint file="/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/Services/CompensationService.cs" relfile="code-challenge/Services/CompensationService.cs" line="68" column="12" />
+      <Breakpoint file="/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/Controllers/CompensationController.cs" relfile="code-challenge/Controllers/CompensationController.cs" line="63" column="11" />
+      <Breakpoint file="/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/Controllers/EmployeeController.cs" relfile="code-challenge/Controllers/EmployeeController.cs" line="50" column="9" />
+      <Breakpoint file="/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge.Tests/CompensationControllerTests.cs" relfile="code-challenge.Tests/CompensationControllerTests.cs" line="78" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
