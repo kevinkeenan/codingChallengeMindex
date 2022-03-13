@@ -12,3 +12,17 @@
 /Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.dll
 /Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.pdb
 /Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.csprojAssemblyReference.cache
+/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/bin/Debug/netcoreapp2.1/code-challenge.deps.json
+/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/bin/Debug/netcoreapp2.1/code-challenge.runtimeconfig.json
+/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/bin/Debug/netcoreapp2.1/code-challenge.runtimeconfig.dev.json
+/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/bin/Debug/netcoreapp2.1/code-challenge.dll
+/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/bin/Debug/netcoreapp2.1/code-challenge.pdb
+/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.csprojAssemblyReference.cache
+/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.csproj.CoreCompileInputs.cache
+/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.RazorAssemblyInfo.cache
+/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.RazorAssemblyInfo.cs
+/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.AssemblyInfoInputs.cache
+/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.AssemblyInfo.cs
+/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.RazorTargetAssemblyInfo.cache
+/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.dll
+/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.pdb

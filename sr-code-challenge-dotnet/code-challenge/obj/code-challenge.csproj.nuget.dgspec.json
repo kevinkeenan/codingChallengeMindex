@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/code-challenge.csproj": {}
+    "/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/code-challenge.csproj": {}
   },
   "projects": {
-    "/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/code-challenge.csproj": {
+    "/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/code-challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/code-challenge.csproj",
+        "projectUniqueName": "/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/code-challenge.csproj",
         "projectName": "code-challenge",
-        "projectPath": "/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/code-challenge.csproj",
+        "projectPath": "/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/code-challenge.csproj",
         "packagesPath": "/Users/kevinkeenan/.nuget/packages/",
-        "outputPath": "/Users/kevinkeenan/Desktop/sr-code-challenge-dotnet/code-challenge/obj/",
+        "outputPath": "/Users/kevinkeenan/Desktop/MindexSubmission/codingChallengeMindex/sr-code-challenge-dotnet/code-challenge/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

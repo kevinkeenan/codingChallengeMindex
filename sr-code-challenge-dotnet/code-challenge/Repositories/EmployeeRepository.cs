@@ -36,15 +36,17 @@ namespace challenge.Repositories
         /// <returns></returns>
         public Employee GetById(string id)
         {
-
-                _logger.LogDebug("Getting Id of: " + id);
-                var emp = _employeeContext.Employees.SingleOrDefault(e => e.EmployeeId == id);
-                var query = (from e in _employeeContext.Employees
+            _logger.LogDebug("Getting Id of: " + id);
+            var emp = _employeeContext.Employees.SingleOrDefault(e => e.EmployeeId == id);
+            if(emp == null)
+            {
+                return null;
+            }
+            var query = (from e in _employeeContext.Employees
                                         where e.EmployeeId == id
                                         select e.DirectReports).SingleOrDefault();
-                emp.DirectReports = query;
-                return emp;
-
+            emp.DirectReports = query;
+            return emp;
         }
 
         /// <summary>
